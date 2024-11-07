@@ -36,7 +36,6 @@ To run this project, you will need the following:
 
 ### 1. Clone the Repository
 
-```bash
 git clone <repository_url>
 
 ### 2. Import Project into IDE
@@ -48,6 +47,7 @@ Import the project into your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
 1. **Create Database and Tables**:
    Execute the following SQL script to set up the PostgreSQL database.
 
+```bash
 ```sql
 -- Create users table
 CREATE TABLE users (
