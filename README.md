@@ -36,7 +36,7 @@ To run this project, you will need the following:
 
 ### 1. Clone the Repository
 
-git clone [<repository_url>](https://github.com/Suraj-0210/user-access-management.git)
+git clone https://github.com/Suraj-0210/user-access-management.git
 
 ### 2. Import Project into IDE
 
@@ -48,7 +48,7 @@ Import the project into your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
    Execute the following SQL script to set up the PostgreSQL database.
 
 ```bash
-```sql
+
 -- Create users table
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
