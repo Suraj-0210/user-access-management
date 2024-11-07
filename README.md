@@ -239,4 +239,4 @@ public class ApprovalServlet extends HttpServlet {
 
 ## Video Guide
 
-You can access the video guide for the system on [this link](#).
+You can access the video guide for the system on [this link](https://youtu.be/ATEoiThKitQ).
