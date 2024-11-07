@@ -35,9 +35,9 @@ To run this project, you will need the following:
 ## Setup Instructions
 
 ### 1. Clone the Repository
-
+```bash
 git clone https://github.com/Suraj-0210/user-access-management.git
-
+```
 ### 2. Import Project into IDE
 
 Import the project into your preferred IDE (e.g., Eclipse, IntelliJ IDEA).
