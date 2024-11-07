@@ -1,6 +1,5 @@
 Here's the refined and professional version of your project setup in markdown format for the README:
 
-```markdown
 # User Access Management System
 
 ## Overview
@@ -39,7 +38,6 @@ To run this project, you will need the following:
 
 ```bash
 git clone <repository_url>
-```
 
 ### 2. Import Project into IDE
 
